@@ -129,8 +129,8 @@ export const Hero = () => {
                 </div>
               </div>
             </div>
-          </div>
-
+          </div>    
+          {/* kjscb */}
           {/* Left Content */}
           <div className="space-y-6 sm:space-y-8 order-last lg:order-first">
             <div className="space-y-4 sm:space-y-6">
