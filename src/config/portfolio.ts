@@ -7,7 +7,7 @@ export const portfolioConfig = {
     phone: "+91 7666775157",
     location: "Hyderabad, Telangana, India",
     bio: "Full Stack Java Developer specializing in building robust, scalable, and efficient web applications using Java, Spring Boot, and Oracle Database. Currently pursuing advanced training in ReactJS and Spring Boot at NareshIT. Experienced in developing end-to-end applications with features like user authentication, database management, and responsive UIs. Collaborates in Agile environments to deliver high-quality solutions, focusing on OOP principles, multithreading, and performance optimization. Skilled in backend development with Spring frameworks and frontend integration using HTML, CSS, JavaScript, and Bootstrap.",
-    resumeUrl: "https://drive.google.com/file/d/1wtVoaO0run-epmvFmcRdWvWfMBqwxlDH/view?usp=sharing",
+    resumeUrl: "https://drive.google.com/file/d/1mw0PUOGr7mM9WCDTLY8Q7PfCBeGCXOPa/view?usp=sharing",
     profileImage: "https://i.postimg.cc/HLCdnCbs/suraj.jpg",
     shortBio: "Passionate Full Stack Java Developer skilled in Java, Spring Boot, and modern web technologies, building scalable and efficient applications."
   },
